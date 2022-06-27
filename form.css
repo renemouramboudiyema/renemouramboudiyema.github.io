@@ -1,13 +1,8 @@
-<<<<<<< HEAD
-p {
-    color: red;
-=======
-.info_1{
+.info_1 {
     color: green;
 }
 
 h1 {
     font-size: 70px;
     color: green;
->>>>>>> CSS
-  }
+}
